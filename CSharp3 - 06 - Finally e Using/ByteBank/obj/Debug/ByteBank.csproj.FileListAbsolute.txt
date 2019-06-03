@@ -1,0 +1,7 @@
+C:\GIT\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\GIT\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\GIT\ByteBank\bin\Debug\ByteBank.exe.config
+C:\GIT\ByteBank\bin\Debug\ByteBank.exe
+C:\GIT\ByteBank\bin\Debug\ByteBank.pdb
+C:\GIT\ByteBank\obj\Debug\ByteBank.exe
+C:\GIT\ByteBank\obj\Debug\ByteBank.pdb
